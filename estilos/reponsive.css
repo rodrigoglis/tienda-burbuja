@@ -79,7 +79,7 @@
         display:  grid;
         margin: auto;
         position: relative;
-        left: 0px ;
+        left: -15px ;
     }
 
 
@@ -159,6 +159,7 @@
    
        display: flex;
        margin: 0px;
+       margin-left: -10px;
        
         
    
